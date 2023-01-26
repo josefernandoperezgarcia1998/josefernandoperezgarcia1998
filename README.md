@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **JavaScript and soon React**
 
-- 👨‍💻 All of my projects are available at [https://calm-sands-57929.herokuapp.com/](https://calm-sands-57929.herokuapp.com/)
+<!-- - 👨‍💻 All of my projects are available at [https://calm-sands-57929.herokuapp.com/](https://calm-sands-57929.herokuapp.com/) -->
 
 - ⚡ Fun fact **<div class=header..**
 
